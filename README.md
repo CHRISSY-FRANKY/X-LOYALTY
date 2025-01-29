@@ -46,7 +46,5 @@ Just me at the moment!
 *Works smoothely without poopy internet*
 
 ## TO DO
-- Delete all of dot net and C#
-- Install Java
 - Install SpringBoot etc
 - Create X Loyalty SpringBoot project
