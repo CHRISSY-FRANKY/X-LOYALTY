@@ -46,5 +46,3 @@ Just me at the moment!
 *Works smoothely without poopy internet*
 
 ## TO DO
-- Install SpringBoot etc
-- Create X Loyalty SpringBoot project
